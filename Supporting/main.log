@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.16)  12 FEB 2020 21:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.16)  12 FEB 2020 21:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,32 +435,29 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 58.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Figure_1.png, id=28, 2168.1pt x 722.7pt>
+<Figure_1.png, id=29, 2168.1pt x 722.7pt>
 File: Figure_1.png Graphic file (type png)
 <use Figure_1.png>
 Package pdftex.def Info: Figure_1.png  used on input line 78.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
+ [1
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figure_1_do.png, id=30, 2168.1pt x 722.7pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<Figure_1_do.png, id=60, 2168.1pt x 722.7pt>
 File: Figure_1_do.png Graphic file (type png)
 <use Figure_1_do.png>
 Package pdftex.def Info: Figure_1_do.png  used on input line 85.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figure_2.png, id=31, 2168.1pt x 722.7pt>
+<Figure_2.png, id=61, 2168.1pt x 722.7pt>
 File: Figure_2.png Graphic file (type png)
 <use Figure_2.png>
 Package pdftex.def Info: Figure_2.png  used on input line 92.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figure_2_do.png, id=32, 2168.1pt x 722.7pt>
+<Figure_2_do.png, id=62, 2168.1pt x 722.7pt>
 File: Figure_2_do.png Graphic file (type png)
 <use Figure_2_do.png>
 Package pdftex.def Info: Figure_2_do.png  used on input line 99.
@@ -468,7 +465,7 @@ Package pdftex.def Info: Figure_2_do.png  used on input line 99.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figure_3.png, id=33, 2168.1pt x 722.7pt>
+<Figure_3.png, id=63, 2168.1pt x 722.7pt>
 File: Figure_3.png Graphic file (type png)
 <use Figure_3.png>
 Package pdftex.def Info: Figure_3.png  used on input line 106.
@@ -476,7 +473,7 @@ Package pdftex.def Info: Figure_3.png  used on input line 106.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figure_3_do.png, id=34, 2168.1pt x 722.7pt>
+<Figure_3_do.png, id=64, 2168.1pt x 722.7pt>
 File: Figure_3_do.png Graphic file (type png)
 <use Figure_3_do.png>
 Package pdftex.def Info: Figure_3_do.png  used on input line 113.
@@ -484,7 +481,7 @@ Package pdftex.def Info: Figure_3_do.png  used on input line 113.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figure_4.png, id=35, 2168.1pt x 722.7pt>
+<Figure_4.png, id=65, 2168.1pt x 722.7pt>
 File: Figure_4.png Graphic file (type png)
 <use Figure_4.png>
 Package pdftex.def Info: Figure_4.png  used on input line 120.
@@ -492,7 +489,7 @@ Package pdftex.def Info: Figure_4.png  used on input line 120.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figure_4_do.png, id=36, 2168.1pt x 722.7pt>
+<Figure_4_do.png, id=66, 2168.1pt x 722.7pt>
 File: Figure_4_do.png Graphic file (type png)
 <use Figure_4_do.png>
 Package pdftex.def Info: Figure_4_do.png  used on input line 127.
@@ -500,39 +497,35 @@ Package pdftex.def Info: Figure_4_do.png  used on input line 127.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<Fields.png, id=70, 1806.75pt x 1445.4pt>
+<Fields.png, id=68, 1806.75pt x 1445.4pt>
 File: Fields.png Graphic file (type png)
 <use Fields.png>
-Package pdftex.def Info: Fields.png  used on input line 139.
+Package pdftex.def Info: Fields.png  used on input line 138.
 (pdftex.def)             Requested size: 505.89pt x 404.70924pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-(./main.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
- [2 <./Figure_1.png>] [3 <./Figure_1_do.png> <./Figure_2.png>]
+(./main.bbl [2 <./Figure_1.png> <./Figure_1_do.png>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
+ [3 <./Figure_2.png>]
 [4 <./Figure_2_do.png> <./Figure_3.png>] [5 <./Figure_3_do.png> <./Figure_4.png
 >] [6 <./Figure_4_do.png>] [7 <./Fields.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0966B47C467C9321A3F1E2004B583D3A;651.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 10641 strings out of 492982
- 145466 string characters out of 6134896
- 236628 words of memory out of 5000000
- 14074 multiletter control sequences out of 15000+600000
+ 10643 strings out of 492982
+ 145507 string characters out of 6134896
+ 231667 words of memory out of 5000000
+ 14075 multiletter control sequences out of 15000+600000
  29609 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,12n,43p,735b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,12n,43p,821b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-rm.enc}</usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/fo
@@ -545,10 +538,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/share/texmf/fonts/type1/public/tex-gyre/qcsb.pfb></usr/share/texmf/fonts/type
 1/public/tex-gyre/qcsr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qcsri.
 pfb>
-Output written on main.pdf (7 pages, 15657581 bytes).
+Output written on main.pdf (7 pages, 15661689 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
+ 157 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 

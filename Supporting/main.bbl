@@ -5,4 +5,9 @@ Xu-Dong Liu, Stanley Osher, and Tony Chan.
 \newblock Weighted essentially non-oscillatory schemes.
 \newblock {\em J. Comp. Phys.}, 115(1):200--212, 1994.
 
+\bibitem{hairer1991solving}
+Ernst Hairer, Syvert~P N{\o}rsett, and Gerhard Wanner.
+\newblock {\em Solving ordinary differential equations. 1, Nonstiff problems}.
+\newblock Springer-Vlg, 1991.
+
 \end{thebibliography}
