@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.16)  12 FEB 2020 21:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.2.16)  14 FEB 2020 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -455,7 +455,7 @@ Package pdftex.def Info: Figure_2.png  used on input line 92.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <Figure_2_do.png, id=62, 2168.1pt x 722.7pt>
 File: Figure_2_do.png Graphic file (type png)
@@ -463,7 +463,7 @@ File: Figure_2_do.png Graphic file (type png)
 Package pdftex.def Info: Figure_2_do.png  used on input line 99.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <Figure_3.png, id=63, 2168.1pt x 722.7pt>
 File: Figure_3.png Graphic file (type png)
@@ -471,7 +471,7 @@ File: Figure_3.png Graphic file (type png)
 Package pdftex.def Info: Figure_3.png  used on input line 106.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <Figure_3_do.png, id=64, 2168.1pt x 722.7pt>
 File: Figure_3_do.png Graphic file (type png)
@@ -479,7 +479,7 @@ File: Figure_3_do.png Graphic file (type png)
 Package pdftex.def Info: Figure_3_do.png  used on input line 113.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <Figure_4.png, id=65, 2168.1pt x 722.7pt>
 File: Figure_4.png Graphic file (type png)
@@ -487,7 +487,7 @@ File: Figure_4.png Graphic file (type png)
 Package pdftex.def Info: Figure_4.png  used on input line 120.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <Figure_4_do.png, id=66, 2168.1pt x 722.7pt>
 File: Figure_4_do.png Graphic file (type png)
@@ -495,7 +495,7 @@ File: Figure_4_do.png Graphic file (type png)
 Package pdftex.def Info: Figure_4_do.png  used on input line 127.
 (pdftex.def)             Requested size: 505.89pt x 168.62149pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <Fields.png, id=68, 1806.75pt x 1445.4pt>
 File: Fields.png Graphic file (type png)
@@ -503,13 +503,12 @@ File: Fields.png Graphic file (type png)
 Package pdftex.def Info: Fields.png  used on input line 138.
 (pdftex.def)             Requested size: 505.89pt x 404.70924pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 (./main.bbl [2 <./Figure_1.png> <./Figure_1_do.png>])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
- [3 <./Figure_2.png>]
-[4 <./Figure_2_do.png> <./Figure_3.png>] [5 <./Figure_3_do.png> <./Figure_4.png
->] [6 <./Figure_4_do.png>] [7 <./Fields.png>]
+ [3 <./Figure_2.png> <./Figure_2_do.png>] [4 <./Figure_3.png> <./Figure_3_do.pn
+g>] [5 <./Figure_4.png> <./Figure_4_do.png>] [6 <./Fields.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
  (./main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
@@ -519,8 +518,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 147.
  ) 
 Here is how much of TeX's memory you used:
- 10643 strings out of 492982
- 145507 string characters out of 6134896
+ 10642 strings out of 492982
+ 145501 string characters out of 6134896
  231667 words of memory out of 5000000
  14075 multiletter control sequences out of 15000+600000
  29609 words of font info for 39 fonts, out of 8000000 for 9000
@@ -538,10 +537,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/share/texmf/fonts/type1/public/tex-gyre/qcsb.pfb></usr/share/texmf/fonts/type
 1/public/tex-gyre/qcsr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qcsri.
 pfb>
-Output written on main.pdf (7 pages, 15661689 bytes).
+Output written on main.pdf (6 pages, 15661341 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 116 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
+ 151 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
