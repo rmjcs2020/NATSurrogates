@@ -1,5 +1,4 @@
 # NAT_Surrogates
-Supporting code for ICML 2020 submission: Non-autoregressive time-series methods for stable parametric surrogate models
 
 # Data for assessments
 Please download data from [here](https://drive.google.com/drive/folders/133_6rn25pb_8xmvR2OB6_YNcSgymQFss?usp=sharing) and save the downloaded data to a folder `SWE_Data` alongside the `Results` and `Dropout_Results` folders.
